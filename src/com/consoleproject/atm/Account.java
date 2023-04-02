@@ -36,11 +36,6 @@ public class Account {
 		return "Account [accountType=" + accountType + ", accountNumber=" + accountNumber + ", accountBalance="
 				+ accountBalance + ", transactions=" + transactions + "]";
 	}
-
-
-
-
-	
 }
 
 
